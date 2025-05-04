@@ -14,7 +14,7 @@ Dr.apoint is a full-stack web application designed to streamline the process of 
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React.js, HTML, CSS, JavaScript
+- **Frontend**: React.js
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 
